@@ -23,5 +23,19 @@ public class Matematika {
     double setPenjumlahan() {
         return bil1 + bil2;
     }
+    
+        //membuat method setPengurangan
+    double setPengurangan() {
+        return bil1 - bil2;
+    }
+        //membuat method setPengalian
+    double setPerkalian() {
+        return bil1 * bil2;
+    }
+    
+        //membuat method setPembagian
+    double setpembagian() {
+        return bil1 / bil2;
+    }
  
 }
