@@ -34,7 +34,7 @@ public class Matematika {
     }
     
         //membuat method setPembagian
-    double setpembagian() {
+    double setPembagian() {
         return bil1 / bil2;
     }
  
